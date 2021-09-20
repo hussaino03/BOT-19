@@ -1,5 +1,5 @@
 # BOT-19
-An intuitive Bot With The Largest Impact 
+An Intuitive Bot With The Largest Impact 
 
 ## Inspiration
 
